@@ -1,2 +1,2 @@
 Looks nice test for test file
-x
+Second line for git commits
